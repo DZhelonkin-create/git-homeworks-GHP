@@ -2,7 +2,7 @@
 
 >*A mushroom picker walking through the forest*
 
-![](git-homeworks-GHP/scr.png)
+![](https://github.com/DZhelonkin-create/git-homeworks-GHP/blob/main/scr.png)
 
 ## Lovers 4 items 
 1. mushrooms
